@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/d97d38f7ab6a411da8658cd87f9d8f21/artifacts
+end_time: 1762337589528
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: d97d38f7ab6a411da8658cd87f9d8f21
+run_name: nimble-cod-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762337527454
+status: 3
+tags: []
+user_id: regin

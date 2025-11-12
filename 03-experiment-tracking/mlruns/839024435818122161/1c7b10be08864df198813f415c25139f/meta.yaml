@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/1c7b10be08864df198813f415c25139f/artifacts
+end_time: 1762438441963
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 1c7b10be08864df198813f415c25139f
+run_name: silent-skunk-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762438434141
+status: 3
+tags: []
+user_id: regin

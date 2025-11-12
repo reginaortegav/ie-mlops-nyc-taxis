@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/1556a98e44f447e69119ac30df14ea9f/artifacts
+end_time: 1762438434039
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 1556a98e44f447e69119ac30df14ea9f
+run_name: capable-doe-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762438422616
+status: 3
+tags: []
+user_id: regin

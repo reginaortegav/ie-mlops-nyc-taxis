@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/74b01f2a318c4d2898af171c98fdda46/artifacts
+end_time: 1762431908003
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 74b01f2a318c4d2898af171c98fdda46
+run_name: legendary-crane-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762431891536
+status: 3
+tags: []
+user_id: regin

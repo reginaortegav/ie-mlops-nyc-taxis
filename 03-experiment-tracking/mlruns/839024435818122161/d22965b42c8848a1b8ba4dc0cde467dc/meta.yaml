@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/d22965b42c8848a1b8ba4dc0cde467dc/artifacts
+end_time: 1762438410565
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: d22965b42c8848a1b8ba4dc0cde467dc
+run_name: capable-wren-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762438398645
+status: 3
+tags: []
+user_id: regin

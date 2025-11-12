@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/7956c095ba5946f0966c8ba50745de52/artifacts
+end_time: 1762337527170
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 7956c095ba5946f0966c8ba50745de52
+run_name: suave-penguin-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762337509327
+status: 3
+tags: []
+user_id: regin

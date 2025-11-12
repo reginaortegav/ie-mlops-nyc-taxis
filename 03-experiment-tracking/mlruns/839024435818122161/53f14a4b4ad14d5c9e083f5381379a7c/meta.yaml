@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/53f14a4b4ad14d5c9e083f5381379a7c/artifacts
+end_time: 1762336889522
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 53f14a4b4ad14d5c9e083f5381379a7c
+run_name: inquisitive-toad-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762336841004
+status: 3
+tags: []
+user_id: regin

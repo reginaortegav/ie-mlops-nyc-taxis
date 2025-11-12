@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/models/m-bc649978052e4ae784459643e4b32a90/artifacts
+creation_timestamp: 1762431909335
+experiment_id: '839024435818122161'
+last_updated_timestamp: 1762431918497
+model_id: m-bc649978052e4ae784459643e4b32a90
+model_type: null
+name: models
+source_run_id: b8d2b460d3ab4055a9bcb59df3b3e6eb
+status: 2
+status_message: null

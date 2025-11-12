@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/172326c5733d496ebd6b87f462c79756/artifacts
+end_time: 1762336918190
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 172326c5733d496ebd6b87f462c79756
+run_name: gifted-crow-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762336889561
+status: 3
+tags: []
+user_id: regin

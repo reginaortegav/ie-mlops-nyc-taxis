@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/regin/Documents/Second%20term%20IE/Mlops/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/839024435818122161/0aa28aaeba3b426d92a274c2d248fa9f/artifacts
+end_time: 1762438422487
+entry_point_name: ''
+experiment_id: '839024435818122161'
+lifecycle_stage: active
+run_id: 0aa28aaeba3b426d92a274c2d248fa9f
+run_name: abundant-crab-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762438410708
+status: 3
+tags: []
+user_id: regin
