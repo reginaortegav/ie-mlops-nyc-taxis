@@ -1,5 +1,25 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .DS_Store
+=======
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local MLflow database (should not be in version control)
+mlflow.db
+mlruns/
+mlartifacts/
+
+# IDE / OS specific
+.vscode/
+.idea/
+*.DS_Store
+>>>>>>> 1c02a22b9ef9b3c4538d47d9baab78271e146588

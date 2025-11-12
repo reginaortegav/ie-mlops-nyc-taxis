@@ -1,4 +1,8 @@
 [flake8]
+<<<<<<< HEAD
 max-line-length = 10
 exclude = .venv,__pycache__,.git
+=======
+max-line-length = 88
+>>>>>>> 1c02a22b9ef9b3c4538d47d9baab78271e146588
 extend-ignore = E203
